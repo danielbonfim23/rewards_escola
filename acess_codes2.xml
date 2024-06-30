@@ -1,0 +1,37 @@
+<codes>
+  <user>
+    <code>1234</code>
+    <turma>2QUI</turma>
+    <id>Daniel Vitor Mariano Bonfim</id>
+    <numero>1</numero>
+    <moeda>100</moeda>
+  </user>
+  <user>
+    <code>4321</code>
+    <turma>2QUI</turma>
+    <id>Gabriel Heckler</id>
+    <numero>1</numero>
+    <moeda>10</moeda>
+  </user>
+  <user>
+    <code>2468</code>
+    <turma>2QUI</turma>
+    <id>Eduardo Soares</id>
+    <numero>1</numero>
+    <moeda>1</moeda>
+  </user>
+  <user>
+    <code>6789</code>
+    <turma>2QUI</turma>
+    <id>Ilsa Soares</id>
+    <numero>1</numero>
+    <moeda>98</moeda>
+  </user>
+  <user>
+    <code>4567</code>
+    <turma>2QUI</turma>
+    <id>Felipe Palhares</id>
+    <numero>1</numero>
+    <moeda>978</moeda>
+  </user>
+</codes>
